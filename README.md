@@ -9,3 +9,5 @@
 real-time applications that run across distributed devices.?
 
 >> Node.js also provides a rich library of various JavaScript modules to simplify the development of web applications.
+
+>>Node.js = Runtime Environment + JavaScript Library
