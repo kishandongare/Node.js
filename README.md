@@ -1,6 +1,8 @@
 # Nodejs
 
-> Node.js is an open-source and cross-platform runtime environment built on Chrome’s V8 JavaScript engine for executing JavaScript code outside of a browser.It is   used for creating server-side and networking web applications. It is open source and free to use. It can be downloaded from this link- https://nodejs.org/en/.
+> Node.js is an open-source and cross-platform runtime environment built on Chrome’s V8 JavaScript engine for executing JavaScript code outside of a browser.
+
+> It is   used for creating server-side and networking web applications. It is open source and free to use. It can be downloaded from this link- https://nodejs.org/en/.
 
  >You need to recollect that NodeJS isn’t a framework, and it’s not a programming language. 
  
