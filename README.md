@@ -22,8 +22,10 @@
 # NodeJS installation(ubuntu)
 
 >https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
+
 >https://linuxize.com/post/how-to-install-node-js-on-ubuntu-20-04/
 
->After NodeJS installation you can run javascript file in VScode terminal 
+> After NodeJS installation you can run javascript file in VScode terminal 
+
 > kishan@kishan25:~/javascript$ node hello.js
 Helllo
